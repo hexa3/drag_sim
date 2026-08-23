@@ -204,4 +204,4 @@ target_link_libraries(drag_sim PRIVATE GLEW::GLEW glfw OpenGL::GL)
 
 [MIT](LICENSE)
 
-Part of a robotics & simulation series with [torque](https://github.com/ibnshafi/torque), [helios](https://github.com/ibnshafi/helios), and [block_craftz](https://github.com/ibnshafi/block_craftz).
+Part of a robotics & simulation series with [torque](https://github.com/hexa3/torque), [helios](https://github.com/hexa3/helios), and [block_craftz](https://github.com/hexa3/block_craftz).
