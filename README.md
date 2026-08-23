@@ -199,3 +199,9 @@ target_link_libraries(drag_sim PRIVATE GLEW::GLEW glfw OpenGL::GL)
 
 - Inspired by kavan's “Simulating Atoms in C++” approach to minimal physics visualizations (see header in `Drag.cpp`).
 - Uses the open-source libraries GLFW, GLEW and GLM.
+
+## License
+
+[MIT](LICENSE)
+
+Part of a robotics & simulation series with [torque](https://github.com/ibnshafi/torque), [helios](https://github.com/ibnshafi/helios), and [block_craftz](https://github.com/ibnshafi/block_craftz).
