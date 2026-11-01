@@ -205,3 +205,7 @@ target_link_libraries(drag_sim PRIVATE GLEW::GLEW glfw OpenGL::GL)
 [MIT](LICENSE)
 
 Part of a robotics & simulation series with [torque](https://github.com/hexa3/torque), [helios](https://github.com/hexa3/helios), and [block_craftz](https://github.com/hexa3/block_craftz).
+
+---
+
+<p align="center">Built by <a href="https://sheheryar.xyz">Sheheryar</a> · <a href="https://github.com/hexa3">github.com/hexa3</a></p>
